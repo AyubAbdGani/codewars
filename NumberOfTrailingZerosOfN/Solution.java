@@ -1,4 +1,4 @@
-public class NumberOfTrailingZerosOfN {
+public class Solution {
     public static void main(String[] args) {
         System.out.println(zeros(100));
     }

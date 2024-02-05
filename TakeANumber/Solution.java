@@ -7,7 +7,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TakeANumber {
+public class Solution {
 
     public static void main(String... args) {
         System.out.println(sumDigPow(1,100));   
