@@ -11,8 +11,9 @@ function stat(strg) {
         
     }
     
-    let size = arr.length;
     arr.sort((a,b) => a-b);
+
+    let size = arr.length;
 
     let range = Math.max(...arr) - Math.min(...arr);
     let mean = parseInt(arr.reduce(function(a,b) {
