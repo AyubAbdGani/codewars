@@ -1,3 +1,5 @@
+package StatisticsForAnAthleticAssociation;
+
 import java.time.Duration;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
