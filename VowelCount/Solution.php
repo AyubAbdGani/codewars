@@ -1,4 +1,5 @@
 <?php
+# Link : https://www.codewars.com/kata/54ff3102c1bad923760001f3
 function getCount($str) {
     $vowelsCount = 0;
     $exp = str_split($str, 1);

@@ -1,4 +1,5 @@
 <?php 
+# Link : https://www.codewars.com/kata/586538146b56991861000293
 $NATO = array(
     'A' => 'Alpha',
     'B' => 'Bravo',

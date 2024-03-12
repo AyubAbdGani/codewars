@@ -1,5 +1,5 @@
 <?php
-
+# Link : https://www.codewars.com/kata/551f37452ff852b7bd000139
 function add_binary($a, $b) {
     $c = $a + $b;
     

@@ -1,4 +1,5 @@
 <?php
+#Link : https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 
 function duplicateCount($text) {
     $cArr = array_fill(0,256,0);
